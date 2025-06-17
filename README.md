@@ -10,13 +10,14 @@ Welcome to my GitHub profile! I am passionate about building robust and scalable
 
 - **Languages:** JavaScript, Go, Rust
 - **Frontend:** HTML, CSS, JS
-- **Backend:** js, Go, Rust
+- **Backend:** JS, Go, Rust
 
 ## 🚀 What I'm Working On
 
 - Contributing to open source projects
 - Creating fullstack applications
 - Exploring new technologies and frameworks
+
 ## 📫 Let's Connect
 
-- [LinkedIn](www.linkedin.com/in/noor-kanaan-ba5624367)
+- [LinkedIn](https://www.linkedin.com/in/noor-kanaan-ba5624367)
