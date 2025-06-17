@@ -17,3 +17,7 @@ Welcome to my GitHub profile! I am passionate about building robust and scalable
 - Contributing to open source projects
 - Creating fullstack applications
 - Exploring new technologies and frameworks
+## 📫 Let's Connect
+
+- [LinkedIn](www.linkedin.com/in/noor-kanaan-ba5624367)
+- ج
