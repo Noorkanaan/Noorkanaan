@@ -20,4 +20,3 @@ Welcome to my GitHub profile! I am passionate about building robust and scalable
 ## 📫 Let's Connect
 
 - [LinkedIn](www.linkedin.com/in/noor-kanaan-ba5624367)
-- ج
