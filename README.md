@@ -45,4 +45,4 @@ Issued by: [AI Academy](https://www.aiaj.xyz) – May 10, 2025
 ## 📫 Contact
 
 - **📧 Email:** noorkanaan16@gmail.com  
-- **🌍 LinkedIn:** [linkedin.com/in/noorkanaan](https://linkedin.com/in/noorkanaan)
+- **🌍 LinkedIn:** [linkedin.com/in/noorkanaan](www.linkedin.com/in/noor-kanaan-ba5624367)
