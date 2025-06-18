@@ -34,19 +34,11 @@ Issued by: [AI Academy](https://www.aiaj.xyz) – May 10, 2025
 
 ## 🚀 Key Projects
 
-Go-reloaded
-Ascii Art Web
-Groupie-Tracker
-Lem-in
-Forum
-Real Time Forum
-Duck Hunt Game
-Graphql
-Mini Framework
-Bomberman Dom
-Smart Road
-Filler
-Ray Tracing
+- **REAL-TIME FORUM** – Live forum with WebSocket, async updates, and js backend   
+- **MINI FRAMEWORK** – Lightweight front-end framework mimicking Virtual DOM  
+- **BOMBERMAN DOM** – Multiplayer grid-based game with Rust + SDL logic  
+- **SMART ROAD** – Autonomous traffic simulation with intelligent signal control  
+- **RAY TRACING** – 3D scene rendering engine in Rust with custom lighting and reflection logic
 
 ---
 
