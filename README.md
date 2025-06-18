@@ -35,9 +35,12 @@ Issued by: [AI Academy](https://www.aiaj.xyz) – May 10, 2025
 ## 🚀 Key Projects
 
 - **GRAPHQL API** – Backend data layer using GraphQL integration  
-- **ASCII-ART** – Terminal-based ASCII visualizer in Go  
-- **BOMBERMAN-DON** – Multiplayer game simulation with SDL  
-- **KAGGLE-TITANIC** – AI prediction challenge using ML classifiers
+- **BOMBERMAN-DON** – Multiplayer game simulation with SDL   
+- **REAL-TIME-FORUM** – Live forum with WebSocket and async backend  
+- **RT** – Real-time communication or routing module (please confirm exact title)  
+- **SMART-ROAD** – Autonomous traffic simulation with intelligent pathfinding  
+- **MINI-FRAMEWORK** – Custom-built front-end framework mimicking Virtual DOM behavior
+- **MAKE YOUR GAME** – Fully custom game logic engine with user-defined rules
 
 ---
 
