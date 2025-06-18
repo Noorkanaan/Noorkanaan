@@ -34,13 +34,19 @@ Issued by: [AI Academy](https://www.aiaj.xyz) – May 10, 2025
 
 ## 🚀 Key Projects
 
-- **GRAPHQL API** – Backend data layer using GraphQL integration  
-- **BOMBERMAN-DON** – Multiplayer game simulation with SDL   
-- **REAL-TIME-FORUM** – Live forum with WebSocket and async backend  
-- **RT** – Real-time communication or routing module (please confirm exact title)  
-- **SMART-ROAD** – Autonomous traffic simulation with intelligent pathfinding  
-- **MINI-FRAMEWORK** – Custom-built front-end framework mimicking Virtual DOM behavior
-- **MAKE YOUR GAME** – Fully custom game logic engine with user-defined rules
+Go-reloaded
+Ascii Art Web
+Groupie-Tracker
+Lem-in
+Forum
+Real Time Forum
+Duck Hunt Game
+Graphql
+Mini Framework
+Bomberman Dom
+Smart Road
+Filler
+Ray Tracing
 
 ---
 
