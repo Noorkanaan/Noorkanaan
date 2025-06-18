@@ -8,7 +8,7 @@ Welcome to my GitHub! I'm a passionate fullstack developer with hands-on experie
 
 ## 📜 AI Certification
 
-![AI Certificate](https://raw.githubusercontent.com/noorkanaan/certificates/main/ai-certificate.jpg)
+![AI Certificate]([https://raw.githubusercontent.com/noorkanaan/certificates/main/ai-certificate.jpg](https://github.com/Noorkanaan/certificates/blob/main/AI%20ACADEMY.jpg?raw=true))
 
 **Creative Thinking, Teamwork, and Introduction to AI Tools**  
 Issued by: [AI Academy](https://www.aiaj.xyz) – May 10, 2025
