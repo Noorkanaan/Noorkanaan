@@ -34,7 +34,6 @@ Issued by: [AI Academy](https://www.aiaj.xyz) – May 10, 2025
 
 ## 🚀 Key Projects
 
-- **SOCIAL-NETWORK** – Real-time social platform built with Rust and JS  
 - **GRAPHQL API** – Backend data layer using GraphQL integration  
 - **ASCII-ART** – Terminal-based ASCII visualizer in Go  
 - **BOMBERMAN-DON** – Multiplayer game simulation with SDL  
